@@ -1,0 +1,228 @@
+.prep-headline {
+  color: #ffffff;
+  font-size: 48px;
+  font-weight: 800;
+  text-align: center;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 30px;
+}
+
+.login {
+  background-color: #ffffff;
+  height: auto;
+  width: 35%;
+  border-radius: 12px;
+  padding: 30px 0;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Labels */
+.login label {
+  text-transform: uppercase;
+  font-size: 16px;
+  margin-left: 25px;
+  margin-top: 30px;
+  font-weight: 600;
+  display: block;
+}
+
+/* Inputs */
+.login input {
+  padding: 15px;
+  width: 87%;
+  margin-top: 10px;
+  margin-left: 25px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+/* Button */
+.login button {
+  text-transform: uppercase;
+  background-color: #0c2340;
+  color: white;
+  margin-left: 30%;
+  font-size: 17px;
+  margin-top: 25px;
+  font-weight: 700;
+  width: 40%;
+  height: 50px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.login button:hover {
+  background-color: #1e3a5f;
+}
+
+/* Bottom text */
+.aa {
+  margin-top: 20px;
+}
+.register label 
+{
+     text-transform: uppercase;
+     font-size: 18px; 
+     margin-left: 13px; 
+     margin-top: 10px; 
+     font-weight: 600; 
+    } 
+.register input 
+{ 
+    padding: 10px;
+     width: 92%; 
+     margin-top: 2px; 
+     margin-left: 10px;
+      border: none; 
+      border-bottom: 1px solid black;
+     }
+
+.login
+{
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(9, 2, 2, 0.3);
+    padding-top: 10px; ;
+    
+}
+.nav-link
+{
+    text-align: center;
+}
+.nav-item a{
+    color: white;
+}
+.nav-item
+{
+    margin-top: 13px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-size: 18px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 15px;
+    background-color: #1976D2;
+    border: 1px solid white;
+    color:white;
+}
+.nav-item:hover {
+  background-color: white;
+  cursor: pointer;
+}
+.nav-item:hover a
+{
+  color:#1976D2;
+}
+.head {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.ac {
+  background: white;
+  color: #1976D2;
+  font-weight: 600;
+  padding: 10px 20px;
+  border-radius: 8px;
+  border: 2px solid #1976D2;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.ac:hover {
+  background: #1976D2;
+  color: white;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.25);
+  transform: translateY(-2px);
+}
+.nav-item1 a{
+    color: #C0C0C0;
+}
+.nav-item1
+{
+    margin-top: 13px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-size: 18px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 15px;
+    border: 1px solid #C0C0C0;
+    color:#C0C0C0;
+}
+.nav-item1:hover {
+  background-color: #C0C0C0;
+  cursor: pointer;
+}
+.nav-item1:hover a
+{
+  color:#222222;
+}
+input, textarea {
+  width: 94%;       
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+button {
+  background: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background: #f2f2f2;
+}
+/* getexams */
+/* exam.css */
+.timer {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #17a2b8;
+}
+
+.question-card {
+  border-left: 5px solid #007bff;
+  transition: box-shadow 0.3s ease;
+}
+
+.question-card:hover {
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.result-card {
+  border-left: 5px solid #28a745;
+}
+
+.alert-warning, .alert-danger, .alert-info {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+.fixed-submit {
+  position: sticky;
+  bottom: 20px;
+  z-index: 999;
+  background: white;
+  padding: 10px;
+  text-align: center;
+  border-top: 1px solid #ccc;
+}

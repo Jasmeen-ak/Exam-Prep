@@ -17,7 +17,7 @@ import Message from './pages/user/Message';
 import ChangePassword from './pages/user/ChangePassword';
 import Examinee from './pages/admin/Examinee';
 import ReportGeneration from './pages/admin/ReportGeneration';
-import AdminChangePassword from './pages/admin/AdminChangePassword';
+import AdminChangePassword from './pages/admin/AdminChangepassword';
 import MessageReply from './pages/admin/MessageReply';
 import AdashboardHome from './pages/admin/AdashboardHome';
 import DashboardHome from './pages/user/DashboardHome';

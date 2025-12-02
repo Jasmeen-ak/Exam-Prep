@@ -102,7 +102,7 @@ Exam-Prep/
 ```bash
 git clone https://github.com/Jasmeen-ak/Exam-Prep.git
 
-## **2️⃣ Install dependencies**
+### **2️⃣ Install dependencies**
 Frontend:
 ```bash
 cd client
@@ -117,7 +117,7 @@ node index.js
 
 ---
 
-# 🌐 Default URLs
+### 🌐 Default URLs
 
 | Portal         | URL                     |
 | -------------- | ----------------------- |
@@ -127,7 +127,7 @@ node index.js
 
 ---
 
-# 🎯 Features Summary
+### 🎯 Features Summary
 Student Features:
 
 Register / Login
@@ -154,7 +154,7 @@ Change password
 
 ---
 
-# 🙌 Author
+### 🙌 Author
 
 Jasmeen Kaur Arora
 Creator & Developer of the Exam Prep MERN Project.
